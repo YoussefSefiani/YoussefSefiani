@@ -9,7 +9,7 @@
   <a href="mailto:youssef.sefiani@hotmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://dev.mindgen.app" target="_blank">
+  <a href="https://youssefsefiani.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-4D6AFF?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
   </a>
 </p>
