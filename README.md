@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Youssef+Sefiani+%F0%9F%91%8B;Full-Stack+%26+Blockchain+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Youssef+Sefiani+%F0%9F%91%8B;Full-Stack+%26+Blockchain+Engineer" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -21,7 +21,7 @@ Welcome to my GitHub! As a full-stack software engineer with deep backend expert
 
 ---
 
-## 🚀 Current Projects  
+## 🚀 Projects  
 
 ### **Mindgen**  
 An AI-powered mind mapping platform redefining collaboration:  
