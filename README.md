@@ -17,7 +17,7 @@
 # Hi there, I'm Youssef 👋  
 **Full-Stack Engineer | Specializing in Blockchain**  
 
-Welcome to my GitHub! As a full-stack software engineer with deep backend expertise. Recently, I've expanded into blockchain development, bringing traditional engineering excellence to Web3 innovation.
+Welcome to my GitHub! As a full-stack software engineer with deep backend expertise, I've expanded into blockchain development.
 
 ---
 
